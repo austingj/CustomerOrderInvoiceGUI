@@ -1,0 +1,6 @@
+userID,fullName,streetAddress,city,state,phone,balance,lastPaidAmount,lastOrderDate,seasonalDiscountsStartDate
+0,fullname1,232 Wood st,Macomb,MI,323-313-4545,15.5,11.0,12/02/2022,12/05/2022
+1,coolstuff,3030 drive,newCity,AZ,321-123-1234,15.5,0.0,01/01/2001,12/22/2022
+2,Farms,123 Apple street,Chicago,WY,555-515-5151,0.0,1050.5,12/02/2022,12/05/2022
+3,newvendor,123street,citttyyy,PA,123-321-1234,0.0,0.0,12/31/2022,12/20/2022
+4,Suupliers,321 street,New York,KS,222-222-2233,0.0,0.0,12/12/2022,12/05/2022
